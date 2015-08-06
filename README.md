@@ -18,12 +18,12 @@ Deploy or host the application somewhere and create a GitHub repo for it. Send u
 1. The structure and approach to how you built the app
 1. A working form that emails on submission and displays an error in the case of incomplete or invalid content
 1. Responsive layout
-1. Polish with regard to the user experience on the site
+1. A polished user experience on the site
 1. Bonus points for creativity to improve the user experience
 
 
 ## Notes
 
 - Feel free to link to or copy existing static files on our site or on our CDN.
-- Don’t worry too much about the content, we’ll be evaluating the layout and your work. Feel free to use “lorem ipsum” copy or other placeholder images for the case study content.
+- Don’t worry too much about the content, we’ll be evaluating the layout and your work. Feel free to use “lorem ipsum” copy (or, you know, [Space Ipsum](http://spaceipsum.com/) or [whatever ipsum you want](http://mashable.com/2013/07/11/lorem-ipsum/)) and other placeholder images for the case study content.
 - If necessary, document how to get the site running locally in a README in the repo.
