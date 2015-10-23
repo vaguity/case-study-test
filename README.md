@@ -1,17 +1,20 @@
-Create a simple application or static site that serves a case study page similar to Percolate’s current case study template. If you use a framework, JavaScript, PHP, or Python would be preferred for the backend.
+# Jr. Frontend Engineer coding test
 
-The case study can be for a real or fictional brand, just not one we already have a page for. Examples can be found at [percolate.com/clients](https://percolate.com/clients/), such as the [Unilever Case Study](https://percolate.com/clients/unilever) and the [Amtrak Case Study](https://percolate.com/clients/amtrak).
+Create a simple application or static site that serves a case study page similar to Percolate’s current client case study template. Examples can be found at [percolate.com/clients](https://percolate.com/clients/), such as the [Unilever Case Study](https://percolate.com/clients/unilever) and the [Amtrak Case Study](https://percolate.com/clients/amtrak).
 
-Add items to the “results” section to make that section a total of six images and paragraphs. (Currently, the case study pages feature two or four items.) The section should be one column on mobile, two columns on tablet, and three columns on desktop. Strong preference for styling with a CSS preprocessor such as Sass.
+Make the following changes to the case study layout:
 
-Build your own form in the “See Percolate in Action” section. The page should display an error if the form is submitted incomplete or incorrectly. On a successful submission, you should email the user the following:
-
-	[First Name],
-
-	Thanks for requesting a demo! We’ll get back to you soon.
+1. Add items to the “results” section to make that section a total of six images and paragraphs. (Currently, the case study pages feature two or four items.)
+1. Build a responsive layout so that the “results” section is one column on mobile, two columns on tablet, and three columns on desktop.
+1. 
 
 Deploy or host the application somewhere and create a GitHub repo for it. Send us a URL to the live site and your GitHub repo.
 
+
+## Dev guidelines
+
+- If you decide to use a backend framework, choose a JavaScript-, PHP-, or Python-based framework
+- Strong preference for styling with a CSS preprocessor such as Sass
 
 ## Evaluation criteria
 
