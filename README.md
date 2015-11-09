@@ -16,7 +16,7 @@ Make the following changes to the case study layout:
 
 Deploy or host the application somewhere and create a GitHub repo for it. Send us a URL to the live site and your GitHub repo.
 
-Include some notes with your thinking about how you built the page. This can be included in a README or as inline comments throughout your code. Especially note or explain use of third-party tools and why you included them.
+Include some notes with your thinking about how you built the page. This can be included in a README or as inline comments throughout your code. Especially note and explain use of third-party tools and why you included them.
 
 
 ## Dev guidelines
@@ -26,6 +26,7 @@ Include some notes with your thinking about how you built the page. This can be 
 - Feel free to link to or copy existing static files on our site or on our CDN.
 - Don’t worry about the content, we’ll be evaluating the layout and your work. Use “lorem ipsum” copy and placeholder images for the case study content.
 - If necessary, document how to get the site running locally in a README in the repo.
+- This test should take you no longer than four hours. Feel free to break up that time over a couple of coding sessions.
 
 
 ## Evaluation criteria
